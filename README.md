@@ -1,6 +1,6 @@
 # EFI-clover-for-Ideapad
 #This EFI file for IdeaPad 320
-1. this download <b>clover configurator
+1. this download <b>clover configurator</b>
 2. open <b>Clover configuratior
 3. goto <b>TOOL</b> click to <b>Mount EFI </b> 
 4. check the <b>EFI Partitions </b>
