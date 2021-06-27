@@ -1,30 +1,29 @@
 Download Mac OS mojave on this link https://mega.nz/file/bI4GWBoZ key -ix5oSMFxwtizWivc_WwB5SUhYw_tMsi8XrWgY_PVls
 
-Download this image of mac os burn it in 16GB Pen Drive
-Useing RUFUS or other image writeing software
+Download this image of mac os burn it in 16GB Pen Drive <br />
+Useing RUFUS or other image writeing software <br />
 
-please take full backup of your laptop data on external Drive/HDD to secure the data 
+please take full backup of your laptop data on external Drive/HDD to secure the data <br />
 
-restart laptop and press F2 to get boot menu 
-and change secure boot off and first boot drive is EFI USB(Mojave) 
+restart laptop and press F2 to get boot menu <br />
+and change secure boot off and first boot drive is EFI USB(Mojave) <br />
 
-# first onen terminal 
-# change the date to 
-# command    date 0211000018
+ first onen terminal <br />
+ change the date to <br /> command    date 0211000018<br />
 it will chage date 
 then 
 # Recovry menu -> Disk Utility -> 
 
-left corner find view -> Internal ->Hard Driver Name (WD/Seagate/) 
+left corner find view <br /> Internal <br />Hard Driver Name (WD/Seagate/) <br />
 
-select -> Erase -> Name of driver(Majave) -> format ->MAC OS Extended Journaled - click on erase
+select <br /> Erase <br /> Name of driver(Majave)<br /> format <br />MAC OS Extended Journaled <br /> click on erase<br />
 
-os Paration require only 50 gb  and close 
+os Paration require only 50 gb  and close <br />
 
-then click on install os and next -> next is Select the Os Installation paration (Majave) 
--> Next -> it will take 10/16 minite show 
+then click on install os and next -> next is Select the Os Installation paration (Majave) <br />
+-> Next -> it will take 10/16 minite show <br />
 
-->Restart computer do not remove usb 
+->Restart computer do not remove usb <br />
 
 # next Step 
 # EFI-clover-for-Ideapad
