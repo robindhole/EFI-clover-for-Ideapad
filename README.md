@@ -1,3 +1,4 @@
+Download Mac OS mojave on this link https://mega.nz/file/bI4GWBoZ key -ix5oSMFxwtizWivc_WwB5SUhYw_tMsi8XrWgY_PVls
 # EFI-clover-for-Ideapad
 #This EFI file for IdeaPad 320
 1. this download <b>clover configurator</b>
