@@ -1,4 +1,32 @@
 Download Mac OS mojave on this link https://mega.nz/file/bI4GWBoZ key -ix5oSMFxwtizWivc_WwB5SUhYw_tMsi8XrWgY_PVls
+
+Download this image of mac os burn it in 16GB Pen Drive
+Useing RUFUS or other image writeing software
+
+please take full backup of your laptop data on external Drive/HDD to secure the data 
+
+restart laptop and press F2 to get boot menu 
+and change secure boot off and first boot drive is EFI USB(Mojave) 
+
+# first onen terminal 
+# change the date to 
+# command    date 0211000018
+it will chage date 
+then 
+# Recovry menu -> Disk Utility -> 
+
+left corner find view -> Internal ->Hard Driver Name (WD/Seagate/) 
+
+select -> Erase -> Name of driver(Majave) -> format ->MAC OS Extended Journaled - click on erase
+
+os Paration require only 50 gb  and close 
+
+then click on install os and next -> next is Select the Os Installation paration (Majave) 
+-> Next -> it will take 10/16 minite show 
+
+->Restart computer do not remove usb 
+
+# next Step 
 # EFI-clover-for-Ideapad
 #This EFI file for IdeaPad 320
 1. this download <b>clover configurator</b>
@@ -13,7 +41,7 @@ Download Mac OS mojave on this link https://mega.nz/file/bI4GWBoZ key -ix5oSMFxw
 10. copy  <b>EFI <b>Folder and Paste in to the <b>EFI Partion </b>only 
 11. then click on <b>unmount paratition </b>
 12. restart the laptop to show<b> clover boot menu</b>
-13. select Installed OS (MOJAVE) Drive name 
+13. select Installed OS (MOJAVE) Drive name to start a laptop with mojave with clover boot manager
 
 ### This EFI Folder for Mac os Mojave 
 
